@@ -17,6 +17,9 @@ namespace TaskyAndroid.Screens {
 		IList<Task> tasks;
 		Button addTaskButton;
 		ListView taskListView;
+		TextView HighFiveCount;
+		int highFiveCounter = 0;
+		const string highFiveLabel = "High Five Count: ";
 		
 		protected override void OnCreate (Bundle bundle)
 		{
@@ -26,13 +29,14 @@ namespace TaskyAndroid.Screens {
 			SetContentView(Resource.Layout.HomeScreen);
 
 			//Find our controls
-			taskListView = FindViewById<ListView> (Resource.Id.TaskList);
+			//taskListView = FindViewById<ListView> (Resource.Id.TaskList);
 			addTaskButton = FindViewById<Button> (Resource.Id.AddButton);
+			HighFiveCount = FindViewById<TextView>(Resource.Id.HighFiveCount);
 
 			// wire up add task button handler
-			if(addTaskButton != null) {
+			if (addTaskButton != null) {
 				addTaskButton.Click += (sender, e) => {
-					StartActivity(typeof(TaskDetailsScreen));
+					HighFiveCount.Text = highFiveLabel + ++highFiveCounter;
 				};
 			}
 			
@@ -54,13 +58,13 @@ namespace TaskyAndroid.Screens {
 		{
 			base.OnResume ();
 
-			tasks = TaskManager.GetTasks();
+			//tasks = TaskManager.GetTasks();
 			
 			// create our adapter
-			taskList = new Adapters.TaskListAdapter(this, tasks);
+			//taskList = new Adapters.TaskListAdapter(this, tasks);
 
 			//Hook up our adapter to our ListView
-			taskListView.Adapter = taskList;
+			//taskListView.Adapter = taskList;
 		}
 	}
 }
