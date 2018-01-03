@@ -5,6 +5,7 @@ using Android.OS;
 using Android.Widget;
 using Tasky.Core;
 using TaskyAndroid;
+using Android.Net;
 
 namespace TaskyAndroid.Screens {
 	/// <summary>
@@ -43,6 +44,10 @@ namespace TaskyAndroid.Screens {
 					StartActivity (taskDetails);
 				};
 			}
+
+		
+
+
 		}
 		
 		protected override void OnResume ()

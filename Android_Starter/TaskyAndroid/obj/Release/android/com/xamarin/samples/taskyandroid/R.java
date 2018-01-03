@@ -22,7 +22,7 @@ public final class R {
         public static final int NotesText=0x7f050006;
         public static final int SaveButton=0x7f050007;
         public static final int TaskDetailsHeader=0x7f050002;
-        public static final int TaskList=0x7f050001;
+        public static final int cbPicView=0x7f050001;
         public static final int lstItemTask=0x7f050009;
     }
     public static final class layout {

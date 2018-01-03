@@ -85,7 +85,7 @@ namespace TaskyAndroid
 			public const int TaskDetailsHeader = 2131034114;
 			
 			// aapt resource value: 0x7f050001
-			public const int TaskList = 2131034113;
+			public const int cbPicView = 2131034113;
 			
 			// aapt resource value: 0x7f050009
 			public const int lstItemTask = 2131034121;
