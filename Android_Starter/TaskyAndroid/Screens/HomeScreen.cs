@@ -11,7 +11,7 @@ namespace TaskyAndroid.Screens {
 	/// <summary>
 	/// Main ListView screen displays a list of tasks, plus an [Add] button
 	/// </summary>
-	[Activity (Label = "Tasky", MainLauncher = true, Icon="@drawable/icon")]			
+	[Activity (Label = "David's Test App", MainLauncher = true, Icon="@drawable/icon")]			
 	public class HomeScreen : Activity {
 		Adapters.TaskListAdapter taskList;
 		IList<Task> tasks;

@@ -1,10 +1,10 @@
+C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\obj\Debug\TaskyAndroid.csprojResolveAssemblyReference.cache
 C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\bin\Debug\TaskyAndroid.dll
 C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\bin\Debug\TaskyAndroid.pdb
 C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\bin\Debug\com.xamarin.samples.taskyandroid.apk
 C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\bin\Debug\com.xamarin.samples.taskyandroid-Signed.apk
 C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\bin\Debug\Tasky.Core.Anroid.dll
 C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\bin\Debug\Tasky.Core.Anroid.pdb
-C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\obj\Debug\TaskyAndroid.csprojResolveAssemblyReference.cache
 C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\obj\Debug\TaskyAndroid.csproj.CoreCompileInputs.cache
 C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\obj\Debug\TaskyAndroid.dll
 C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\obj\Debug\TaskyAndroid.pdb
@@ -17,6 +17,10 @@ C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\obj\Debug\res\dra
 C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\obj\Debug\res\drawable-ldpi\icon.png
 C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\obj\Debug\res\drawable-mdpi\icon.png
 C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\obj\Debug\res\drawable-hdpi\transcard.png
+C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\obj\Debug\res\drawable-ldpi\transcard.png
+C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\obj\Debug\res\drawable-mdpi\transcard.png
+C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\obj\Debug\res\drawable-xhdpi\transcard.png
 C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\obj\Debug\R.cs.flag
 C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\obj\Debug\uploadflags.txt
 C:\Users\David\source\repos\Tasky\Android_Starter\TaskyAndroid\bin\Debug\Tasky.Core.Anroid.dll.mdb

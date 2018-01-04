@@ -3,13 +3,13 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="Tasky" android:debuggable="true" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true">
-    <activity android:icon="@drawable/icon" android:label="Tasky" android:name="md5e1c7fb43ac38c27b2e1aff581ffcc5df.HomeScreen">
+    <activity android:icon="@drawable/icon" android:label="David's Test App" android:name="md52982a433316e6c31863ec7d7c7bc10c4.HomeScreen">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:label="TaskDetailsScreen" android:name="md5e1c7fb43ac38c27b2e1aff581ffcc5df.TaskDetailsScreen" />
+    <activity android:label="TaskDetailsScreen" android:name="md52982a433316e6c31863ec7d7c7bc10c4.TaskDetailsScreen" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.xamarin.samples.taskyandroid.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

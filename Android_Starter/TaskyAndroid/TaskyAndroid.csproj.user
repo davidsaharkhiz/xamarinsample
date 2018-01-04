@@ -3,6 +3,7 @@
   <PropertyGroup>
     <SelectedDevice>VisualStudio_android-23_x86_phone</SelectedDevice>
     <DefaultDevice>VisualStudio_android-23_x86_phone</DefaultDevice>
-    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
+    <AndroidDesignerPreferredDevice>Nexus 10</AndroidDesignerPreferredDevice>
+    <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
 </Project>
